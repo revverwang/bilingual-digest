@@ -3,10 +3,18 @@
   <id>urn:uuid:0b2fe324-5efc-5f31-89b5-ac0d61903865</id>
   <title>国际热点 · 双语简报</title>
   <subtitle>每天 5 篇国际热点，本地模型逐段中英对照</subtitle>
-  <updated>2026-11-25T23:03:47Z</updated>
+  <updated>2026-11-26T23:06:54Z</updated>
   <author><name>Hermes Local Digest</name></author>
   <link rel="self" href="https://revverwang.github.io/bilingual-digest/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://revverwang.github.io/bilingual-digest/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>国际热点·双语简报 2026-11-27</title>
+    <id>urn:uuid:34398ea1-2e4f-5a2c-97b1-e7e2cf29f4c8</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <author><name>Hermes Local Digest</name></author>
+    <content type="text">EPUB · 174 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://revverwang.github.io/bilingual-digest/books/2026-11-27-Bilingual-Digest.epub"/>
+  </entry>
   <entry>
     <title>国际热点·双语简报 2026-11-26</title>
     <id>urn:uuid:c75b5fae-f22e-5341-957c-d18bd721f889</id>
